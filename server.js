@@ -79,5 +79,5 @@ app.get("/api/notes", function(req, res) {
 });
 
 app.listen(PORT, function() {
-  console.log("SERVER IS LISTENING: " + PORT);
+  console.log("Server is listening: " + PORT);
 });
